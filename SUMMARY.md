@@ -1,14 +1,14 @@
 # Summary
 
 - [Home](README.md)
+  
+## 🎓 Education
+- [Technical High School in Informatics – IFTO](education/ifto.md)
+- [Computer Engineering – UTFPR ](education/utfpr.md)
 
 ## 🧑‍💻 Professional Experience
 - [IT Support Technician](exp/ifto.md)
 - [Independent Electrical Specialist](exp/IES.md)
-
-## 🎓 Education
-- [Technical High School in Informatics – IFTO](education/ifto.md)
-- [Computer Engineering – UTFPR ](education/utfpr.md)
 
 ## 📚 Certificates
 - [Coursera Certificates](certificates/coursera/README.md)
