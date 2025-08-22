@@ -13,7 +13,7 @@ This portfolio documents my **hands-on labs**, **CTF write-ups**, and **professi
 
 - **Computer Engineering (incomplete)** – UTFPR (2015–2020)  
   - Focus: Programming (C, C++, Java, Python), Data Structures, Computer Architecture, and Electronics  
-  - Gained strong analytical and engineering problem-solving skills  
+  - Gained strong analytical and engineering problem-solving skills 
 
 ---
 
