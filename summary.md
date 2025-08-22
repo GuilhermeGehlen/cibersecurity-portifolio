@@ -7,7 +7,7 @@
 
 ## 🎓 Education
 - [Technical High School in Informatics – IFTO](education/ifto.md)
-- 
+- [Computer Engineering – UTFPR (2015–2020, not completed)](education/utfpr.md)
 
 ## 📚 Certificates
 - [Coursera Certificates](certificates/coursera/README.md)
