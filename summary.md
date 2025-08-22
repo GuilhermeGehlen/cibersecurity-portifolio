@@ -29,7 +29,3 @@
 - [Write-ups](ctfs/README.md)
   - [TryHackMe Challenges](ctfs/thm.md)
   - [HackTheBox Challenges](ctfs/htb.md)
-
-## 📂 Other
-- [Resources](resources.md)
-- [About Me](about.md)
