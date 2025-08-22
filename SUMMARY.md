@@ -3,7 +3,8 @@
 - [Home](README.md)
 
 ## 🧑‍💻 Experience
-- [Professional Background](experience.md)
+- [IT Support Technician](exp/ifto.md)
+- [Independent Electrical Specialist](exp/IES.md)
 
 ## 🎓 Education
 - [Technical High School in Informatics – IFTO](education/ifto.md)
