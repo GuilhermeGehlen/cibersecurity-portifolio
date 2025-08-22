@@ -27,7 +27,7 @@ I worked as an **IT Support Technician** at the **Federal Institute of Education
 
 🎯 This experience gave me a solid foundation in **IT operations**, which later became essential for my transition into **cybersecurity**.
 
-# 💼 Independent Electrical Specialist – John Deere (2021–Present)
+# 💼 Independent Electrical Specialist (2021–Present)
 
 Since 2021, I have been working as an **Independent Electrical Specialist**, focusing on diagnostics and repair for **John Deere agricultural machinery**.
 
