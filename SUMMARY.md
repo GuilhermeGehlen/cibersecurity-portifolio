@@ -20,14 +20,11 @@
 
 
 ## 🔒 Labs
-- [TryHackMe Labs](Labs/thm/README.md)
-  - [Cyber Security 101](Labs/thm/cyber101/README.md)
-  - [SOC Level 1](Labs/thm/soc-l1/README.md)
-- [Blue Team / DFIR Labs](Labs/blueteam/README.md)
-  - [Incident Response Labs](Labs/blueteam/incident-response/README.md)
-  - [Forensics Labs](Labs/blueteam/forensics/README.md)
+- [Write-ups]
+  - [TryHackMe Labs](Labs/thm/README.md)
+  - [Blue Team / DFIR Labs](Labs/blueteam/README.md)
 
 ## 🎯 CTFs
-- [Write-ups](CTFs/README.md)
+- [Write-ups]
   - [TryHackMe Challenges](CTFs/thm.md)
   - [HackTheBox Challenges](CTFs/htb.md)
