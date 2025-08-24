@@ -28,6 +28,6 @@
   - [Forensics Labs](Labs/blueteam/forensics/README.md)
 
 ## 🎯 CTFs
-- [Write-ups](ctfs/README.md)
-  - [TryHackMe Challenges](ctfs/thm.md)
-  - [HackTheBox Challenges](ctfs/htb.md)
+- [Write-ups](CTFs/README.md)
+  - [TryHackMe Challenges](CTFs/thm.md)
+  - [HackTheBox Challenges](CTFs/htb.md)
