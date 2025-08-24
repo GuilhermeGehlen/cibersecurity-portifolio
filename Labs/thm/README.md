@@ -2,4 +2,4 @@
 
 ### Cyber security 101 path learning!
 
-1. [Moniker Link Exploitation](moniker/MonikerLink.md)
+1. [Moniker Link Exploitation](cyber101/moniker/MonikerLink.md)
